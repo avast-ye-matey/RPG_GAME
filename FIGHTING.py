@@ -1,3 +1,8 @@
+#from ADJECTIVE_BUILDING import synonyms_list
+
+#print(synonyms_list)
+
+
 character = "Knight"
 character_base_stats = { 'dexterity': 3 , 'strength': 8 , 'luck': 5 }
 character_weapon = 'Sword of the Galiant'
